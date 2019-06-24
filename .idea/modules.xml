@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/blogLite.iml" filepath="$PROJECT_DIR$/.idea/blogLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gunSelf-admin/gunSelf-admin.iml" filepath="$PROJECT_DIR$/gunSelf-admin/gunSelf-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gunSelf-core/gunSelf-core.iml" filepath="$PROJECT_DIR$/gunSelf-core/gunSelf-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gunSelf-parent/gunSelf-parent.iml" filepath="$PROJECT_DIR$/gunSelf-parent/gunSelf-parent.iml" />
+    </modules>
+  </component>
+</project>

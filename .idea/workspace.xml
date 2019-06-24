@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcf92d52-10d4-46d1-a73b-cd6e197c6b79" name="Default Changelist" comment="" />
+    <list id="4bfee012-5477-494f-bc1a-5c9f8a99a40a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/fadpSpring-rest/target/" />
+    <ignored path="$PROJECT_DIR$/fadpSpring-core/target/" />
+    <ignored path="$PROJECT_DIR$/fadpSpring-admin/target/" />
+    <ignored path="$PROJECT_DIR$/fadpSpring-parent/target/" />
+    <ignored path="$PROJECT_DIR$/fadpSpring-generator/target/" />
+    <ignored path="$PROJECT_DIR$/gunSelf-admin/target/" />
+    <ignored path="$PROJECT_DIR$/gunSelf-core/target/" />
+    <ignored path="$PROJECT_DIR$/gunSelf-parent/target/" />
+    <ignored path="$PROJECT_DIR$/gunSelf-generator/target/" />
+    <ignored path="$PROJECT_DIR$/gunSelf-rest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/fadpSpring$FadpSpringApplication.ic" NAME="FadpSpringApplication Coverage Results" MODIFIED="1557287478711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stylefeng.fadpSpring.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="338871081">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="56" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.25" value="6" />
+          <entry key="project.open.time.26" value="4" />
+          <entry key="project.open.time.27" value="4" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.32" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="LICENSE" value="1" />
+          <entry key="LISENCE" value="3" />
+          <entry key="btl" value="30" />
+          <entry key="class" value="29" />
+          <entry key="css" value="3" />
+          <entry key="html" value="201" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="236" />
+          <entry key="js" value="77" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1" />
+          <entry key="pom" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="sql" value="3" />
+          <entry key="tag" value="29" />
+          <entry key="ts" value="1" />
+          <entry key="vm" value="12" />
+          <entry key="xml" value="25" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="29" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="201" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="236" />
+          <entry key="JSP" value="29" />
+          <entry key="JavaScript" value="77" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="Properties" value="1" />
+          <entry key="SQL" value="3" />
+          <entry key="TypeScript" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="VTL" value="12" />
+          <entry key="XML" value="28" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="btl" value="155" />
+          <entry key="html" value="2117" />
+          <entry key="java" value="1465" />
+          <entry key="js" value="1213" />
+          <entry key="md" value="15" />
+          <entry key="sql" value="11" />
+          <entry key="tag" value="278" />
+          <entry key="vm" value="213" />
+          <entry key="xml" value="94" />
+          <entry key="yml" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2117" />
+          <entry key="JAVA" value="1465" />
+          <entry key="JSP" value="278" />
+          <entry key="JavaScript" value="1213" />
+          <entry key="Markdown" value="15" />
+          <entry key="PLAIN_TEXT" value="155" />
+          <entry key="SQL" value="11" />
+          <entry key="VTL" value="213" />
+          <entry key="XML" value="94" />
+          <entry key="YAML" value="53" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1741348331">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="74" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="11" />
+          <entry key="project.open.time.12" value="11" />
+          <entry key="project.open.time.13" value="8" />
+          <entry key="project.open.time.14" value="6" />
+          <entry key="project.open.time.15" value="7" />
+          <entry key="project.open.time.16" value="10" />
+          <entry key="project.open.time.17" value="5" />
+          <entry key="project.open.time.18" value="7" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="6" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="96" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LISENCE" value="1" />
+          <entry key="btl" value="10" />
+          <entry key="class" value="29" />
+          <entry key="css" value="16" />
+          <entry key="dtd" value="1" />
+          <entry key="gif" value="5" />
+          <entry key="html" value="296" />
+          <entry key="ico" value="2" />
+          <entry key="java" value="596" />
+          <entry key="jpg" value="53" />
+          <entry key="js" value="78" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1" />
+          <entry key="png" value="10" />
+          <entry key="pom" value="6" />
+          <entry key="rnc" value="1" />
+          <entry key="sql" value="22" />
+          <entry key="svg" value="1" />
+          <entry key="tag" value="21" />
+          <entry key="ts" value="5" />
+          <entry key="ttf" value="1" />
+          <entry key="vm" value="1" />
+          <entry key="xml" value="53" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="29" />
+          <entry key="CSS" value="16" />
+          <entry key="DTD" value="1" />
+          <entry key="Font" value="1" />
+          <entry key="HTML" value="296" />
+          <entry key="Image" value="70" />
+          <entry key="JAVA" value="596" />
+          <entry key="JSP" value="21" />
+          <entry key="JavaScript" value="78" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SQL" value="22" />
+          <entry key="SVG" value="1" />
+          <entry key="TypeScript" value="5" />
+          <entry key="VTL" value="1" />
+          <entry key="XML" value="59" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="btl" value="11" />
+          <entry key="css" value="92" />
+          <entry key="dummy" value="24" />
+          <entry key="html" value="10317" />
+          <entry key="java" value="10663" />
+          <entry key="js" value="1473" />
+          <entry key="tag" value="271" />
+          <entry key="xml" value="1124" />
+          <entry key="yml" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="92" />
+          <entry key="HTML" value="10315" />
+          <entry key="JAVA" value="10663" />
+          <entry key="JSP" value="271" />
+          <entry key="JavaScript" value="1475" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="SQL" value="66" />
+          <entry key="XML" value="1058" />
+          <entry key="YAML" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1039693316">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="java" value="6" />
+          <entry key="xml" value="3" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JAVA" value="6" />
+          <entry key="XML" value="3" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="html" value="37" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="37" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="17" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fadpSpring" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-528">
+              <caret line="104" column="24" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9180">
+              <caret line="445" column="23" selection-start-line="443" selection-start-column="8" selection-end-line="445" selection-end-column="23" />
+              <folding>
+                <element signature="e#602#1059#0" />
+                <element signature="e#1113#2953#0" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/message.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2403">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/details.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/comment.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/board.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/timeline.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3537">
+              <caret line="134" column="7" selection-start-line="134" selection-start-column="7" selection-end-line="136" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>static</find>
+      <find>kaptcha</find>
+      <find>/kaptcha</find>
+      <find>resources</find>
+      <find>pictures</find>
+      <find>pop-nav</find>
+      <find>\$\(\&quot;\#mobile\-nav\&quot;\)\.on\(\'click\'\, function\(\)\{\n        \$\(\&quot;\#pop\-nav\&quot;\)\.toggle\(\)\;\n    \}\)\;</find>
+      <find>#mobile-nav</find>
+      <find>\$\(\&quot;\#mobile\-nav\&quot;\)\.on\(\'click\'\, function\(\)\{\n      console\.log\(\&quot;click happened\!\&quot;\)\;\n    \$\(\&quot;\#pop\-nav\&quot;\)\.toggle\(\)\;\n  \}\)\;</find>
+      <find>blog.js</find>
+      <find>blog.j</find>
+      <find>mobile-nav</find>
+      <find>/</find>
+      <find>content</find>
+      <find>getUser()</find>
+      <find>hasPermission</find>
+      <find>getUser</find>
+      <find>FADPSPRING</find>
+      <find>fadpSP</find>
+      <find>fadpSp</find>
+      <find>muti-datasource-open</find>
+      <find>com.stylefeng</find>
+      <find>fadpspring</find>
+      <find>fadpSpring</find>
+      <find>gun</find>
+      <find>gunSelf</find>
+      <find>col-md6</find>
+      <find>blog</find>
+      <find>ul</find>
+      <find>use</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fadpSpring</replace>
+      <replace>/pictures</replace>
+      <replace>gunself</replace>
+      <replace>gunSelf</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\javaWorkSpace\fadpSpring\fadpSpring-rest\src\main\java\com\stylefeng\fadpSpring\rest</dir>
+      <dir>D:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\WEB-INF\view\blog\blogContent</dir>
+      <dir>D:\javaWorkSpace\fadpSpring\fadpSpring-admin</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\WEB-INF\view</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static\modular\system</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static\js</dir>
+      <dir>C:\javaWorkSpace\fadpSpring\fadpSpring-admin</dir>
+      <dir>C:\javaWorkSpace\fadpSpring</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/modular/blog/controller/BlogRegisterController.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blogBackimg/blogBackimg.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blog/blogBackimg/blogBackimg.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blogBackimg/blogBackimg_add.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blogBackimg/blogBackimg_edit.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogBackimg/blogBackimg_add.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogBackimg/blogBackimg_edit.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blog/blogMusic/blogMusic.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogMusic/blogMusic_add.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogMusic/blogMusic_edit.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blog/blogTag/blogTag.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/common/tags/textarea.tag" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogContent/blogContent_add.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/blogContent/blogContent_edit.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blog/blogContent/blogContent_info.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/details.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/modular/blog/controller/BlogContentController.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/BlogRegister.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/system/log/log.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/common/_container.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/index.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/common/tags/input.tag" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/common/tags/TimeCon.tag" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/config/properties/FadpProperties.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/config/web/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/static/modular/blog/res/static/js/blog.js" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/top.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/index.html" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/gunSelf/modular/blog/controller/BlogLoginController.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/fadpSpring-admin/src/main/java/com/stylefeng/gunSelf/config/properties/ActivitiProperties.java" />
+        <option value="$PROJECT_DIR$/fadpSpring-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/FadpSpringApplication.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/GunSelfApplication.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/GunSelfServletInitializer.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/SpringSessionConfig.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/properties/gunSelfProperties.java" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/properties/GunSelfProperties.java" />
+        <option value="$PROJECT_DIR$/gunSelf-core/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/index.html" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/timeline.html" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/message.html" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/board.html" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/top.html" />
+        <option value="$PROJECT_DIR$/gunSelf-admin/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.6\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/gunSelf-admin/src/main/webapp/static/editor-app/libs/es5-shim-15.3.4.5/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="843" />
+    <option name="width" value="1068" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+              <item name="gunSelf-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+              <item name="gunSelf-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+              <item name="gunSelf-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+              <item name="gunSelf-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogLite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogLite" type="462c0819:PsiDirectoryNode" />
+              <item name="gunSelf-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="blogC&#9;FILE&#9;file://C:/javaWorkSpace/fadpSpring/fadpSpring-admin/src/main/java/com/stylefeng/fadpSpring/modular/blog/controller/BlogContentController.java&#10;index&#9;FILE&#9;file://C:/javaWorkSpace/fadpSpring/fadpSpring-admin/src/main/webapp/WEB-INF/view/index.html&#10;blogPhoto&#9;PSI&#9;JAVA://com.stylefeng.fadpSpring.modular.blog.controller.BlogPhotoController&#10;top&#9;FILE&#9;file://C:/javaWorkSpace/fadpSpring/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/top.html&#10;top.&#9;FILE&#9;file://C:/javaWorkSpace/fadpSpring/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/top.html&#10;blogcomm&#9;PSI&#9;JAVA://com.stylefeng.fadpSpring.modular.blog.controller.BlogCommentController&#10;de&#9;FILE&#9;file://C:/javaWorkSpace/fadpSpring/fadpSpring-admin/src/main/webapp/WEB-INF/view/blog/html/details.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561342806904" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gunSelf" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javaWorkSpace\blogLite" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static\img" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\WEB-INF\view\blog\html" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\WEB-INF\view" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stylefeng.fadpSpring.modular.blog.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\javaWorkSpace\fadpSpring\pictures" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\WEB-INF\view\blog\html" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static\css" />
+      <recent name="C:\javaWorkSpace\fadpSpring\fadpSpring-admin\src\main\webapp\static\js" />
+      <recent name="C:\javaWorkSpace\fadpSpring\music" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GunSelfApplication">
+    <configuration name="FadpRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gunSelf-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.gunSelf.rest.FadpRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GunSelfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gunSelf-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stylefeng.gunSelf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.gunSelf.GunSelfApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.FadpRestApplication" />
+      <item itemvalue="Spring Boot.GunSelfApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GunSelfApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\张耶园\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcf92d52-10d4-46d1-a73b-cd6e197c6b79" name="Default Changelist" comment="" />
+      <created>1536830822606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536830822606</updated>
+      <workItem from="1536830826726" duration="860000" />
+      <workItem from="1536831819563" duration="350000" />
+      <workItem from="1536832366806" duration="702000" />
+      <workItem from="1536885806005" duration="10105000" />
+      <workItem from="1536901118789" duration="1499000" />
+      <workItem from="1536906213627" duration="597000" />
+      <workItem from="1536907566953" duration="39000" />
+      <workItem from="1536908539718" duration="3101000" />
+      <workItem from="1536913931695" duration="1716000" />
+      <workItem from="1536916298773" duration="503000" />
+      <workItem from="1536918241190" duration="1422000" />
+      <workItem from="1536972756280" duration="927000" />
+      <workItem from="1536974086135" duration="66000" />
+      <workItem from="1536974501013" duration="2117000" />
+      <workItem from="1536989394281" duration="5274000" />
+      <workItem from="1536995786649" duration="5458000" />
+      <workItem from="1537001336526" duration="1335000" />
+      <workItem from="1537002857683" duration="3536000" />
+      <workItem from="1537144696522" duration="281000" />
+      <workItem from="1537149149883" duration="594000" />
+      <workItem from="1537152742813" duration="145000" />
+      <workItem from="1537170819099" duration="2885000" />
+      <workItem from="1537235911009" duration="1825000" />
+      <workItem from="1537237847797" duration="2001000" />
+      <workItem from="1537246286018" duration="2241000" />
+      <workItem from="1537248875998" duration="8768000" />
+      <workItem from="1537258340180" duration="1311000" />
+      <workItem from="1537260153892" duration="1118000" />
+      <workItem from="1537261424991" duration="2720000" />
+      <workItem from="1537317584622" duration="2651000" />
+      <workItem from="1537323627166" duration="1094000" />
+      <workItem from="1537325569371" duration="1770000" />
+      <workItem from="1537333804527" duration="126000" />
+      <workItem from="1537343809887" duration="3575000" />
+      <workItem from="1537405070168" duration="6039000" />
+      <workItem from="1537411686430" duration="494000" />
+      <workItem from="1537412365221" duration="883000" />
+      <workItem from="1537419432672" duration="15855000" />
+      <workItem from="1537489891878" duration="9014000" />
+      <workItem from="1537506129053" duration="3252000" />
+      <workItem from="1537509459051" duration="10096000" />
+      <workItem from="1537519895218" duration="2923000" />
+      <workItem from="1537835912493" duration="7886000" />
+      <workItem from="1537850521977" duration="20143000" />
+      <workItem from="1537922192943" duration="8188000" />
+      <workItem from="1537938082305" duration="3473000" />
+      <workItem from="1537948766821" duration="5694000" />
+      <workItem from="1538009418595" duration="16823000" />
+      <workItem from="1538034625196" duration="2457000" />
+      <workItem from="1538095429064" duration="815000" />
+      <workItem from="1538097072672" duration="5113000" />
+      <workItem from="1538114219005" duration="9068000" />
+      <workItem from="1538198855509" duration="1196000" />
+      <workItem from="1538201280513" duration="30000" />
+      <workItem from="1539074376972" duration="535000" />
+      <workItem from="1539332881128" duration="1267000" />
+      <workItem from="1539334246454" duration="312000" />
+      <workItem from="1539334617515" duration="38000" />
+      <workItem from="1539391284810" duration="1561000" />
+      <workItem from="1540181395837" duration="493000" />
+      <workItem from="1540963770264" duration="9000" />
+      <workItem from="1547362578392" duration="1462000" />
+      <workItem from="1547365437630" duration="2174000" />
+      <workItem from="1549537392175" duration="890000" />
+      <workItem from="1549605534731" duration="808000" />
+      <workItem from="1550047420365" duration="565000" />
+      <workItem from="1550049416558" duration="14124000" />
+      <workItem from="1550112529586" duration="7727000" />
+      <workItem from="1550379817520" duration="1209000" />
+      <workItem from="1550464706317" duration="1208000" />
+      <workItem from="1550638343149" duration="2886000" />
+      <workItem from="1550718230547" duration="1625000" />
+      <workItem from="1550720113606" duration="15075000" />
+      <workItem from="1550740695652" duration="11316000" />
+      <workItem from="1550808326191" duration="7177000" />
+      <workItem from="1550890882191" duration="602000" />
+      <workItem from="1550987780223" duration="3704000" />
+      <workItem from="1551082812301" duration="11713000" />
+      <workItem from="1551153369312" duration="18457000" />
+      <workItem from="1551238015202" duration="22578000" />
+      <workItem from="1551286785200" duration="566000" />
+      <workItem from="1551330925800" duration="11459000" />
+      <workItem from="1551667644242" duration="1982000" />
+      <workItem from="1551755586275" duration="16355000" />
+      <workItem from="1551851592128" duration="11140000" />
+      <workItem from="1551924317341" duration="11072000" />
+      <workItem from="1551963408408" duration="213000" />
+      <workItem from="1552029381863" duration="1189000" />
+      <workItem from="1552046252449" duration="30000" />
+      <workItem from="1552100539386" duration="604000" />
+      <workItem from="1552265032042" duration="1656000" />
+      <workItem from="1552266869656" duration="1738000" />
+      <workItem from="1552744491043" duration="2219000" />
+      <workItem from="1553221890908" duration="7527000" />
+      <workItem from="1553420630573" duration="57000" />
+      <workItem from="1553481156763" duration="5223000" />
+      <workItem from="1553492881815" duration="3796000" />
+      <workItem from="1553571537787" duration="816000" />
+      <workItem from="1553654317533" duration="9311000" />
+      <workItem from="1553692435484" duration="928000" />
+      <workItem from="1553696812513" duration="4975000" />
+      <workItem from="1553740666630" duration="7603000" />
+      <workItem from="1553825260440" duration="1218000" />
+      <workItem from="1554009773008" duration="602000" />
+      <workItem from="1554266642426" duration="597000" />
+      <workItem from="1554343726873" duration="9159000" />
+      <workItem from="1554373578353" duration="2119000" />
+      <workItem from="1554435944378" duration="6586000" />
+      <workItem from="1554624522615" duration="16406000" />
+      <workItem from="1554651323585" duration="1065000" />
+      <workItem from="1554696378910" duration="1387000" />
+      <workItem from="1554719634268" duration="176000" />
+      <workItem from="1554779899819" duration="1407000" />
+      <workItem from="1554959671918" duration="629000" />
+      <workItem from="1555041236755" duration="2536000" />
+      <workItem from="1555219780461" duration="2000" />
+      <workItem from="1555734121017" duration="2946000" />
+      <workItem from="1555753216923" duration="134000" />
+      <workItem from="1556273605597" duration="1284000" />
+      <workItem from="1556418153971" duration="1459000" />
+      <workItem from="1556683222372" duration="5951000" />
+      <workItem from="1556721560365" duration="867000" />
+      <workItem from="1556762914487" duration="1316000" />
+      <workItem from="1556865295847" duration="4846000" />
+      <workItem from="1556981542690" duration="1105000" />
+      <workItem from="1557135221644" duration="1639000" />
+      <workItem from="1557152060982" duration="14086000" />
+      <workItem from="1557173105271" duration="2652000" />
+      <workItem from="1557193212698" duration="35585000" />
+      <workItem from="1557287377288" duration="16812000" />
+      <workItem from="1557316413771" duration="6545000" />
+      <workItem from="1557374369398" duration="32176000" />
+      <workItem from="1557458523725" duration="4107000" />
+      <workItem from="1557547375767" duration="22353000" />
+      <workItem from="1557627205191" duration="15971000" />
+      <workItem from="1557721579962" duration="5333000" />
+      <workItem from="1557728439526" duration="12273000" />
+      <workItem from="1557817963491" duration="803000" />
+      <workItem from="1557913019741" duration="1815000" />
+      <workItem from="1557955985863" duration="689000" />
+      <workItem from="1558239529672" duration="874000" />
+      <workItem from="1558876317908" duration="6095000" />
+      <workItem from="1558922359753" duration="4045000" />
+      <workItem from="1559042719130" duration="14000" />
+      <workItem from="1559116333075" duration="447000" />
+      <workItem from="1559292434456" duration="15086000" />
+      <workItem from="1559315226511" duration="11524000" />
+      <workItem from="1559340427160" duration="1840000" />
+      <workItem from="1559350005402" duration="496000" />
+      <workItem from="1559746305005" duration="7706000" />
+      <workItem from="1560436743151" duration="3162000" />
+      <workItem from="1560441295162" duration="2219000" />
+      <workItem from="1560495431514" duration="350000" />
+      <workItem from="1560495882204" duration="1403000" />
+      <workItem from="1560508889533" duration="2000" />
+      <workItem from="1560565869909" duration="1237000" />
+      <workItem from="1560573115845" duration="3971000" />
+      <workItem from="1560578525773" duration="7937000" />
+      <workItem from="1561342296230" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="737665000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81560284" visible="true" weight="0.3354891" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.18439716" side_tool="true" weight="0.0" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49923664" weight="0.3280142" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49717057" weight="0.035460994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.51950353" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7960993" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.3280142" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50282943" side_tool="true" weight="0.4787234" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3280142" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.35106382" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32983023" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Preview" order="11" weight="0.32977098" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/common/tags/select.tag</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="getSession()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/static/modular/blogBackimg/blogBackimg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5022">
+          <caret line="221" column="54" selection-start-line="221" selection-start-column="54" selection-end-line="221" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.9.RELEASE/spring-boot-autoconfigure-1.5.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/WebMvcProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/modular/blog/controller/BlogLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/Bloglogin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blackboard.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/src/main/java/com/stylefeng/gunSelf/core/exception/FadpException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/src/main/java/com/stylefeng/gunSelf/core/exception/ServiceExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/src/main/java/com/stylefeng/gunSelf/core/exception/FadpExceptionEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/src/main/java/com/stylefeng/gunSelf/core/db/Db.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/src/main/java/com/stylefeng/gunSelf/core/datasource/DruidProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/ActivitiConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/DictListenerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/EhCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/core/datascope/DataScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/core/datascope/DataScopeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/core/beetl/BeetlConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/properties/ActivitiProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/GunSelfApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/BlogLink.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/GunSelfServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/SpringSessionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fadpSpring-rest.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fadpSpring-admin/target/classes/com/stylefeng/gunSelf/FadpServletInitializer.class" />
+    <entry file="file://$PROJECT_DIR$/fadpSpring-admin/target/classes/application.yml" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/web/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="124" column="34" selection-start-line="124" selection-start-column="34" selection-end-line="124" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/Activitimodel.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/web/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/config/properties/GunSelfProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-rest/src/main/java/com/stylefeng/gunSelf/rest/config/WebConfig.java" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3391">
+          <caret line="82" column="18" selection-start-line="82" selection-start-column="18" selection-end-line="82" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-generator/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-rest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/modular/code/factory/DefaultTemplateFactory.java" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/java/com/stylefeng/gunSelf/modular/code/model/MyWebGerneratorConfig.java" />
+    <entry file="file://$PROJECT_DIR$/gunSelf-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="445" column="23" selection-start-line="443" selection-start-column="8" selection-end-line="445" selection-end-column="23" />
+          <folding>
+            <element signature="e#602#1059#0" />
+            <element signature="e#1113#2953#0" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2403">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/details.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/comment.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/board.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="88" column="27" selection-start-line="88" selection-start-column="27" selection-end-line="88" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/webapp/WEB-INF/view/blog/html/timeline.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3537">
+          <caret line="134" column="7" selection-start-line="134" selection-start-column="7" selection-end-line="136" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gunSelf-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
+          <caret line="104" column="24" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>fastjson-1.2.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fadpSpring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-core:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/fadpSpring-parent" />
+    <option value="clean package -Dmaven.test.skip=true" />
+    <option value="dependency:resolve -Dclassifier=sources" />
+  </component>
+</project>
